@@ -124,7 +124,7 @@ input::placeholder {
 }
 
 .weather {
-    /* display: none; */
+    display: none;
 }
 
 .error {
@@ -245,7 +245,7 @@ input::placeholder {
         }
     
         .weather {
-            /* display: none; */
+            display: none;
         }
     
         .error {
